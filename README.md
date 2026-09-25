@@ -4,7 +4,7 @@
 
 # Universidad Estatal Amazonica (UEA)
 
-# Sistema de Gestión de Restaurante - Componentes y Contenedores en Tkinter
+# Sistema de Gestión de Restaurante - Conceptos fundamentales de manejo de eventos
 
 **Estudiante:** Nayely Soledad Chamorro Vicente
 
