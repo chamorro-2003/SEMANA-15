@@ -1,6 +1,6 @@
 <div align="justify">
   
-# RESTURANTE_SEMANA_14
+# RESTURANTE_SEMANA_15
 
 # Universidad Estatal Amazonica (UEA)
 
@@ -75,12 +75,12 @@ El sistema incorpora un mecanismo de control de acceso basado en **roles (RBAC)*
 
 ## Persistencia y Gestión de Ventas
 
-La información del sistema se mantiene mediante tres archivos **JSON**, donde **productos.json* almacena el catálogo y el stock disponible, **usuarios.json** conserva los datos de clientes y administradores, **ventas.json** registra las transacciones realizadas, además cuando se procesa una venta el sistema verifica que el producto exista y que tenga suficiente **stock**, posteriormente disminuye las unidades disponibles y guarda los cambios correspondientes, permitiendo que la información permanezca actualizada incluso después de cerrar y volver a ejecutar la aplicación.
+La información del sistema se mantiene mediante tres archivos **JSON**, donde **productos.json** almacena el catálogo y el stock disponible, **usuarios.json** conserva los datos de clientes y administradores, **ventas.json** registra las transacciones realizadas, además cuando se procesa una venta el sistema verifica que el producto exista y que tenga suficiente **stock**, posteriormente disminuye las unidades disponibles y guarda los cambios correspondientes, permitiendo que la información permanezca actualizada incluso después de cerrar y volver a ejecutar la aplicación.
 
 ---
 
 ## Reflexión Final
 
-El desarrollo de EV15 permitió integrar los conocimientos adquiridos durante las diferentes etapas del proyecto, combinando **Programación Orientada a Objetos**, **interfaces gráficas**, persistencia de datos y control de acceso para construir una aplicación más completa y organizada, además la separación entre modelos, servicios e interfaz facilita el mantenimiento del código y permite incorporar nuevas funciones sin afectar directamente las demás partes del sistema, de esta manera el proyecto establece una base adecuada para continuar mejorando la aplicación mediante nuevas opciones de gestión, reportes o diferentes formas de almacenamiento de información.
+El desarrollo de la semana 15 me permitió integrar los conocimientos adquiridos durante las diferentes etapas del proyecto, combinando **Programación Orientada a Objetos**, **interfaces gráficas**, persistencia de datos y control de acceso para construir una aplicación más completa y organizada, además la separación entre modelos, servicios e interfaz facilita el mantenimiento del código y permite incorporar nuevas funciones sin afectar directamente las demás partes del sistema, de esta manera el proyecto establece una base adecuada para continuar mejorando la aplicación mediante nuevas opciones de gestión, reportes o diferentes formas de almacenamiento de información.
 
 <div>
