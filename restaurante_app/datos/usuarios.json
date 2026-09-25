@@ -1,0 +1,27 @@
+[
+  {
+    "usuario_id": "1104567890",
+    "nombre": "Carlos González",
+    "rol": "Cliente"
+  },
+  {
+    "usuario_id": "1109876543",
+    "nombre": "Nayely Martínez",
+    "rol": "Cliente"
+  },
+  {
+    "usuario_id": "1101234567",
+    "nombre": "Administrador General",
+    "rol": "Admin"
+  },
+  {
+    "usuario_id": "1950175750",
+    "nombre": "Gabriel Chamba",
+    "rol": "Cliente"
+  },
+  {
+    "usuario_id": "1900542016",
+    "nombre": "Matías Mejia",
+    "rol": "Cliente"
+  }
+]

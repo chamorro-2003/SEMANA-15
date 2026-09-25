@@ -1,0 +1,44 @@
+[
+  {
+    "producto_id": 1,
+    "nombre": "Pizza Familiar Pepperoni",
+    "precio": 12.5,
+    "categoria": "Pizzas",
+    "stock": 14
+  },
+  {
+    "producto_id": 2,
+    "nombre": "Hamburguesa Doble",
+    "precio": 6.5,
+    "categoria": "Hamburguesas",
+    "stock": 19
+  },
+  {
+    "producto_id": 3,
+    "nombre": "Limonada",
+    "precio": 1.0,
+    "categoria": "Bebidas",
+    "stock": 9
+  },
+  {
+    "producto_id": 4,
+    "nombre": "Hot Dog",
+    "precio": 1.0,
+    "categoria": "Rápido",
+    "stock": 11
+  },
+  {
+    "producto_id": 5,
+    "nombre": "Jugo de fresa",
+    "precio": 1.5,
+    "categoria": "Bebidas",
+    "stock": 6
+  },
+  {
+    "producto_id": 6,
+    "nombre": "Pizza Hawaiana",
+    "precio": 6.0,
+    "categoria": "Pizzas",
+    "stock": 5
+  }
+]
