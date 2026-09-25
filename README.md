@@ -75,7 +75,7 @@ El sistema incorpora un mecanismo de control de acceso basado en **roles (RBAC)*
 
 ## Persistencia y Gestión de Ventas
 
-La información del sistema se mantiene mediante tres archivos **JSON**, donde **productos.json* almacena el catálogo y el stock disponible, **usuarios.json** conserva los datos de clientes y administradores, *ventas.json** registra las transacciones realizadas, además cuando se procesa una venta el sistema verifica que el producto exista y que tenga suficiente stock, posteriormente disminuye las unidades disponibles y guarda los cambios correspondientes, permitiendo que la información permanezca actualizada incluso después de cerrar y volver a ejecutar la aplicación.
+La información del sistema se mantiene mediante tres archivos **JSON**, donde **productos.json* almacena el catálogo y el stock disponible, **usuarios.json** conserva los datos de clientes y administradores, **ventas.json** registra las transacciones realizadas, además cuando se procesa una venta el sistema verifica que el producto exista y que tenga suficiente **stock**, posteriormente disminuye las unidades disponibles y guarda los cambios correspondientes, permitiendo que la información permanezca actualizada incluso después de cerrar y volver a ejecutar la aplicación.
 
 ---
 
